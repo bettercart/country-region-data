@@ -2,8 +2,14 @@
   "name": "@bettercart/country-region-data",
   "version": "1.0.0",
   "description": "Better and cleaner country region data by BetterCart.com",
-  "main": "index.js",
+  "main": "data.json",
   "repository": "https://github.com/Better-Cart-Inc/country-region-data.git",
   "author": "Better Cart Inc",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "country",
+    "region",
+    "data"
+  ],
+   "homepage": "https://www.getbettercart.com"
 }

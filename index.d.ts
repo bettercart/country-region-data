@@ -8,6 +8,8 @@ declare module "@bettercart/country-region-data" {
     name: string;
     code: string;
     regions: Region[];
+    zipRequired: boolean;
+    regionLabel: string;
   }
 
   const CountryRegionData: Country[];

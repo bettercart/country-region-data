@@ -10,7 +10,7 @@ declare module "@bettercart/country-region-data" {
     regions: Region[];
   }
 
-  const countryRegionData: Country[];
+  const CountryRegionData: Country[];
 
-  export default countryRegionData;
+  export default CountryRegionData;
 }

@@ -1,6 +1,6 @@
 {
   "name": "@bettercart/country-region-data",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Better and cleaner country region data by BetterCart.com",
   "main": "data.json",
   "repository": "https://github.com/Better-Cart-Inc/country-region-data.git",

@@ -1,6 +1,6 @@
 {
   "name": "@bettercart/country-region-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Country and region data designed for Shopify Checkouts",
   "main": "data.json",
   "repository": "https://github.com/Better-Cart-Inc/country-region-data.git",
